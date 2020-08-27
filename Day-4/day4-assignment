@@ -1,0 +1,12 @@
+Instances
+	Instance-1
+		Name : linux1
+		Public Ip : 3.129.68.49
+	Instance-2
+		Name : linux2
+		Public Ip : 3.19.70.96
+
+Load-Balancer
+	Name : abhi-elb
+	DNS name : abhi-elb-1542908251.us-east-2.elb.amazonaws.com
+ 
